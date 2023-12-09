@@ -125,4 +125,11 @@ This project is licensed under the [MIT License](https://chat.openai.com/c/LICEN
 
 ## Documentation
 
+Assignment Submission:
+
 [https://docs.google.com/document/d/1h4M-IueEFTKt-olsMWisFFHuS9oMp9TwNNQRK9h1DY0/edit?usp=sharing](https://docs.google.com/document/d/1h4M-IueEFTKt-olsMWisFFHuS9oMp9TwNNQRK9h1DY0/edit?usp=sharing)
+
+Assignment Guidline:
+[https://docs.google.com/document/d/1yRi3DX3ymrS2gjkOO1dWZOXBvU4ZVZsEWDbd8jfUnlk/edit?usp=sharing](https://docs.google.com/document/d/1yRi3DX3ymrS2gjkOO1dWZOXBvU4ZVZsEWDbd8jfUnlk/edit?usp=sharing)
+[
+](https://docs.google.com/document/d/1h4M-IueEFTKt-olsMWisFFHuS9oMp9TwNNQRK9h1DY0/edit?usp=sharing)

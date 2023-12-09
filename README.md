@@ -9,6 +9,13 @@ This repository contains scripts related to Constraint Satisfaction Problems (CS
 * `CSP_Solver.py`: Python script utilizing the `python-constraint` library to model and solve the CSP for professor-course assignments.
 * `ConstraintGraph.py`: Python script for constructing a constraint graph related to the CSP.
 
+## Course Information
+
+**Course:** CPSC 481-05 - Artificial Intelligence
+**Instructor:** Professor Kenytt Avery
+**University:** California State University Fullerton
+**Exercise:** Exercise 4 - Fall 2023
+
 ## Problem Description
 
 Consider the problem of assigning professors to teach courses in a computer science department. The constraints and preferences for this problem are as follows:

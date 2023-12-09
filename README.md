@@ -137,6 +137,16 @@ Assignment Submission:
 [https://docs.google.com/document/d/1h4M-IueEFTKt-olsMWisFFHuS9oMp9TwNNQRK9h1DY0/edit?usp=sharing](https://docs.google.com/document/d/1h4M-IueEFTKt-olsMWisFFHuS9oMp9TwNNQRK9h1DY0/edit?usp=sharing)
 
 Assignment Guidline:
-[https://docs.google.com/document/d/1yRi3DX3ymrS2gjkOO1dWZOXBvU4ZVZsEWDbd8jfUnlk/edit?usp=sharing](https://docs.google.com/document/d/1yRi3DX3ymrS2gjkOO1dWZOXBvU4ZVZsEWDbd8jfUnlk/edit?usp=sharing)
+[https://docs.google.com/document/d/1yRi3DX3ymrS2gjkOO1dWZOXBvU4ZVZsEWDbd8jfUnlk/edit?usp=sharing
+](https://docs.google.com/document/d/1yRi3DX3ymrS2gjkOO1dWZOXBvU4ZVZsEWDbd8jfUnlk/edit?usp=sharing)
+
 [
 ](https://docs.google.com/document/d/1h4M-IueEFTKt-olsMWisFFHuS9oMp9TwNNQRK9h1DY0/edit?usp=sharing)
+
+## Acknowledgment
+
+I would like to express my sincere gratitude to Professor Kenytt Avery for teaching CPSC 481-05 - Artificial Intelligence at California State University Fullerton. This exercise has provided valuable insights into Constraint Satisfaction Problems (CSP) and has been instrumental in enhancing my problem-solving skills in the field of artificial intelligence.
+
+Thank you, Professor Avery, for your guidance and support throughout this exercise.
+
+---

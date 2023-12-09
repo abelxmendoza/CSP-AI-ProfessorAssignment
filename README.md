@@ -2,6 +2,8 @@
 
 This repository contains scripts related to Constraint Satisfaction Problems (CSP) for the assignment of professors to courses. The scripts are part of an AI exercise and focus on solving the problem of scheduling professors for specific courses while adhering to various constraints.
 
+![1702148739052](image/README/1702148739052.png)
+
 ## Contents
 
 * `CSP_Solver.py`: Python script utilizing the `python-constraint` library to model and solve the CSP for professor-course assignments.
@@ -75,18 +77,6 @@ Explore the scripts in this repository to see CSPs in action and deepen your pro
 ### 5. Construct a constraint graph for this problem.
 
 ![1702146317653](image/README/1702146317653.png)
-
-### 6. Make each variable node-consistent.
-
-(Provide a brief explanation of how unary constraints influence the domain of each variable.)
-
-### 7. Make each variable arc-consistent.
-
-(Explain how binary constraints influence the consistency of connected variable domains.)
-
-### 8. Find a solution to the constraint problem.
-
-(Run the provided scripts to showcase a possible solution or mention that the CSP solver determined "No solution found" based on the constraints.)
 
 ## Getting Started
 
